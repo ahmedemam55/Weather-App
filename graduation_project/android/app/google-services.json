@@ -1,0 +1,28 @@
+{
+  "project_info": {
+    "project_number": "1098390700532",
+    "project_id": "garduation-project-5d180",
+    "storage_bucket": "garduation-project-5d180.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098390700532:android:14a1bfa46aed0a44a9b9a1",
+        "android_client_info": {
+          "package_name": "com.example.graduation_project"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyBst-5ZuAt77tuhqcsWFnQqQmaaEDjWOaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
